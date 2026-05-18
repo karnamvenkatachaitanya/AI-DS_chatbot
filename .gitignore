@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Environment variables (keep .env.example, ignore actual .env)
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Downloaded ML models (large files)
+chroma_db/
+*.bin
+*.pt
+*.pth
+*.onnx
+
+# Downloaded PDFs
+data/raw/*.pdf
+academic_calendar.pdf
+discovered_pdf_*.pdf
+
+# Playwright browser binaries
+ms-playwright/
+
+# Logs
+*.log
+logs/
+
+# Test coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb

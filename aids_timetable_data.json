@@ -1,0 +1,397 @@
+{
+  "timetable": {
+    "1st_Year_Section_A": {
+      "Monday": {
+        "9-10": "LAC (VHKR)",
+        "10-11": "BEEE (SDS)",
+        "11-12": "EP (BRK)",
+        "1-4": "ENGINEERING GRAPHICS (PNK, AKYN, YSR)"
+      },
+      "Tuesday": {
+        "9-10": "EP (BRK)",
+        "10-11": "BEEE (SDS)",
+        "11-12": "LAC (VHKR)",
+        "1-4": "ENGINEERING GRAPHICS (RMB, AKYN, YSR)"
+      },
+      "Wednesday": {
+        "9-12": "INTRODUCTION TO PROGRAMMING (VSRA)",
+        "1-2": "EP (BRK)",
+        "2-3": "BEEE (SDS)"
+      },
+      "Thursday": {
+        "9-12": "CP LAB (VSRA)",
+        "1-2": "LAC (VHKR)",
+        "2-4": "EEE WS (TMS, NUSA, SDS)"
+      },
+      "Friday": {
+        "9-12": "EP-LAB (BRK, MDHB)",
+        "1-4": "INTRODUCTION TO PROGRAMMING (VSRA)"
+      },
+      "Saturday": {
+        "9-10": "EP (BRK)",
+        "10-11": "BEEE (SDS)",
+        "11-12": "LAC (VHKR)",
+        "1-2": "NGCS (GM)",
+        "2-4": "IT WS (SSB, USJ, CVVR)"
+      }
+    },
+    "1st_Year_Section_B": {
+      "Monday": {
+        "9-10": "BEEE (RRP)",
+        "10-11": "LAC (CHMR)",
+        "11-12": "EP (YMK)",
+        "1-2": "BEEE (RRP)",
+        "2-4": "EEE WS (MODS, JCMA, RRP)"
+      },
+      "Tuesday": {
+        "9-12": "ENGINEERING GRAPHICS (KNP, MSR, BSK)",
+        "1-2": "BEEE (RRP)",
+        "2-3": "EP (YMK)",
+        "3-4": "LAC (CHMR)"
+      },
+      "Wednesday": {
+        "9-12": "INTRODUCTION TO PROGRAMMING (VSRA)",
+        "1-2": "EP (YMK)",
+        "2-3": "BEEE (RRP)",
+        "3-4": "LAC (CHMR)"
+      },
+      "Thursday": {
+        "9-12": "EP-LAB (YMK, DSRY)",
+        "1-4": "CP LAB (VSRA)"
+      },
+      "Friday": {
+        "9-10": "EP (YMK)",
+        "10-11": "NGCS (DAVI)",
+        "11-12": "LAC (CHMR)",
+        "1-4": "INTRODUCTION TO PROGRAMMING (VSRA)"
+      },
+      "Saturday": {
+        "9-10": "LAC (CHMR)",
+        "10-12": "IT WS (PN, USJ, DSR)"
+      }
+    },
+    "1st_Year_Section_C": {
+      "Monday": {
+        "9-12": "EP-LAB (MDHB, HKK)",
+        "1-4": "ENGINEERING GRAPHICS (CHRK, SCS, SKRB)"
+      },
+      "Tuesday": {
+        "9-12": "CP LAB (MSMA, SMAM)",
+        "1-2": "LAC (SKA)",
+        "2-3": "BEEE (KVTR)",
+        "3-4": "EP (HKK)"
+      },
+      "Wednesday": {
+        "9-10": "EP (HKK)",
+        "10-12": "EEE WS (KVTR, MRJ, VANJ)",
+        "1-2": "LAC (SKA)",
+        "2-3": "BEEE (KVTR)",
+        "3-4": "EP (HKK)"
+      },
+      "Thursday": {
+        "9-10": "EP (HKK)",
+        "10-11": "BEEE (KVTR)",
+        "11-12": "LAC (SKA)",
+        "1-2": "BEEE (KVTR)",
+        "2-3": "LAC (SKA)",
+        "3-4": "NGCS (DAVI)"
+      },
+      "Friday": {
+        "9-12": "INTRODUCTION TO PROGRAMMING (MSMA)",
+        "1-4": "INTRODUCTION TO PROGRAMMING (MSMA)"
+      },
+      "Saturday": {
+        "9-12": "ENGINEERING GRAPHICS (BSK, TPK, SKRB)",
+        "1-2": "LAC (SKA)",
+        "2-4": "IT WS (SUNP, CSKA, MSMA)"
+      }
+    },
+    "1st_Year_Section_D": {
+      "Monday": {
+        "9-12": "ENGINEERING GRAPHICS (MCS, CHRK, MSR)",
+        "1-2": "LAC (SRK)",
+        "2-3": "BEEE (GSR)",
+        "3-4": "EP (KVK)"
+      },
+      "Tuesday": {
+        "9-10": "NGCS (DAVI)",
+        "10-11": "BEEE (GSR)",
+        "11-12": "EP (KVK)",
+        "1-4": "CP LAB (MSMA)"
+      },
+      "Wednesday": {
+        "9-10": "EP (KVK)",
+        "10-11": "BEEE (GSR)",
+        "11-12": "LAC (SRK)",
+        "1-2": "LAC (SRK)",
+        "2-4": "EEE WS (IPR, MRJ, GSR)"
+      },
+      "Thursday": {
+        "9-10": "LAC (SRK)",
+        "10-11": "BEEE (GSR)",
+        "11-12": "EP (KVK)",
+        "1-4": "ENGINEERING GRAPHICS (SKRB, MSR)"
+      },
+      "Friday": {
+        "9-12": "INTRODUCTION TO PROGRAMMING (MSMA)",
+        "1-4": "INTRODUCTION TO PROGRAMMING (MSMA)"
+      },
+      "Saturday": {
+        "9-12": "EP-LAB (KVK, YMK)",
+        "1-2": "LAC (SRK)",
+        "2-4": "IT WS (VSRA, BKOT)"
+      }
+    },
+    "2nd_Year_Section_A": {
+      "Monday": {
+        "9-12": "DTI LAB (TVM, AVEN, SVC)",
+        "1-2": "L",
+        "2-3": "DL_CO (SVC)",
+        "3-4": "IDS (SMAM)",
+        "4-5": "BE (CUKR)"
+      },
+      "Tuesday": {
+        "9-10": "SMDS (SRK)",
+        "10-11": "IDS (SMAM)",
+        "11-12": "BE (CUKR)",
+        "1-2": "U",
+        "2-4": "IDS LAB (PJTL, MNS, SMAM)"
+      },
+      "Wednesday": {
+        "9-10": "BE (CUKR)",
+        "10-11": "SMDS (SRK)",
+        "11-12": "AI (ANR)",
+        "1-2": "N",
+        "2-4": "AI LAB (MSPR, AVEN, ANR)"
+      },
+      "Thursday": {
+        "9-12": "FULL STACK DEVELOPMENT LAB (ANR)",
+        "1-2": "C",
+        "2-5": "FULL STACK DEVELOPMENT LAB (SVC)"
+      },
+      "Friday": {
+        "9-10": "DL_CO (SVC)",
+        "10-11": "AI (ANR)",
+        "11-12": "SMDS (SRK)",
+        "1-2": "H",
+        "2-5": "FULL STACK DEVELOPMENT LAB (BK)"
+      },
+      "Saturday": {
+        "9-10": "SMDS (SRK)",
+        "10-11": "DL_CO (SVC)",
+        "11-12": "AI (ANR)",
+        "1-2": "BREAK",
+        "2-3": "DL_CO (SVC)",
+        "3-4": "IDS (SMAM)"
+      }
+    },
+    "3rd_Year_Section_A": {
+      "Monday": {
+        "9-12": "DL LAB (VVR, SMAM, PJTI)",
+        "1-2": "L",
+        "2-3": "AIF (TVM)",
+        "3-4": "BDA (PPTH)",
+        "4-5": "DL (PJTI)"
+      },
+      "Tuesday": {
+        "9-10": "SNA (MNS)",
+        "10-11": "NLP (AVEN)",
+        "11-12": "DL (PJTI)",
+        "1-2": "U",
+        "2-5": "BD and DV LAB (PPTH, SVC, AVEN)"
+      },
+      "Wednesday": {
+        "9-10": "BDA (PPTH)",
+        "10-11": "DL (PJTI)",
+        "11-12": "NLP (AVEN)",
+        "1-2": "N",
+        "2-3": "AWPS (VKTP)",
+        "3-4": "SNA (MNS)",
+        "4-5": "DL (PJTI)"
+      },
+      "Thursday": {
+        "9-10": "AIF (TVM)",
+        "10-11": "SNA (MNS)",
+        "11-12": "BDA (PPTH)",
+        "1-2": "C",
+        "2-3": "NLP (AVEN)",
+        "3-4": "AIF (TVM)",
+        "4-5": "AWPS (VKTP)"
+      },
+      "Friday": {
+        "9-10": "NLP (AVEN)",
+        "10-11": "AIF (TVM)",
+        "11-12": "AWPS (VKTP)",
+        "1-2": "H",
+        "2-3": "SNA (MNS)",
+        "3-4": "BDA (PPTH)",
+        "4-5": "TPW.IPR (ANR)"
+      },
+      "Saturday": {
+        "9-10": "TPW.IPR (ANR)",
+        "10-12": "WORKSHOP (PJTI)",
+        "1-2": "BREAK",
+        "2-4": "SOFT SKILLS LAB (DAVI, PVS)"
+      }
+    },
+    "3rd_Year_Section_B": {
+      "Monday": {
+        "9-12": "DL LAB (VVR, SMAM, PJTI)",
+        "1-2": "L",
+        "2-3": "AIF (TVM)",
+        "3-4": "BDA (PPTH)",
+        "4-5": "DL (PJTI)"
+      },
+      "Tuesday": {
+        "9-10": "SNA (MNS)",
+        "10-11": "NLP (AVEN)",
+        "11-12": "DL (PJTI)",
+        "1-2": "U",
+        "2-5": "BD and DV LAB (PPTH, SVC, AVEN)"
+      },
+      "Wednesday": {
+        "9-10": "BDA (PPTH)",
+        "10-11": "DL (PJTI)",
+        "11-12": "NLP (AVEN)",
+        "1-2": "N",
+        "2-3": "AWPS (VKTP)",
+        "3-4": "SNA (MNS)",
+        "4-5": "DL (PJTI)"
+      },
+      "Thursday": {
+        "9-10": "AIF (TVM)",
+        "10-11": "SNA (MNS)",
+        "11-12": "BDA (PPTH)",
+        "1-2": "C",
+        "2-3": "NLP (AVEN)",
+        "3-4": "AIF (TVM)",
+        "4-5": "AWPS (VKTP)"
+      },
+      "Friday": {
+        "9-10": "NLP (AVEN)",
+        "10-11": "AIF (TVM)",
+        "11-12": "AWPS (VKTP)",
+        "1-2": "H",
+        "2-3": "SNA (MNS)",
+        "3-4": "BDA (PPTH)",
+        "4-5": "TPW.IPR (ANR)"
+      },
+      "Saturday": {
+        "9-10": "TPW.IPR (ANR)",
+        "10-12": "WORKSHOP (PJTI)",
+        "1-2": "BREAK",
+        "2-4": "SOFT SKILLS LAB (DAVI, PVS)"
+      }
+    },
+    "2nd_Year_Section_B": {
+      "Monday": {
+        "9-10": "BE (YCR)",
+        "10-11": "SMDS (DVS)",
+        "11-12": "AI (MSPR)",
+        "1-2": "L",
+        "2-5": "AI LAB (BK, ANR, MSPR)"
+      },
+      "Tuesday": {
+        "9-12": "DTI LAB (VVR, TVM, MSPR)",
+        "1-2": "U",
+        "2-3": "DL_CO (BK)",
+        "3-4": "AI (MSPR)",
+        "4-5": "BE (YCR)"
+      },
+      "Wednesday": {
+        "9-12": "IDS LAB (MNS, SMAM, PCK)",
+        "1-2": "N",
+        "2-3": "BE (YCR)",
+        "3-4": "IDS (SMAM)",
+        "4-5": "SMDS (DVS)"
+      },
+      "Thursday": {
+        "9-12": "FULL STACK DEVELOPMENT LAB (MSPR)",
+        "1-2": "C",
+        "2-5": "FULL STACK DEVELOPMENT LAB (SMAM)"
+      },
+      "Friday": {
+        "9-10": "SMDS (DVS)",
+        "10-11": "IDS (SMAM)",
+        "11-12": "DL_CO (BK)",
+        "1-2": "H",
+        "2-5": "FULL STACK DEVELOPMENT LAB (PCK)"
+      },
+      "Saturday": {
+        "9-10": "DL_CO (BK)",
+        "10-11": "AI (MSPR)",
+        "11-12": "IDS (SMAM)",
+        "1-2": "BREAK",
+        "2-3": "SMDS (DVS)",
+        "3-4": "DL_CO (BK)"
+      }
+    }
+  },
+  "subjects": {
+    "LAC": "Linear Algebra & Calculus",
+    "EP": "Engineering Physics",
+    "BEEE": "Basic Electrical and Electronics Engineering",
+    "INTRODUCTION TO PROGRAMMING": "Introduction to Programming",
+    "NGCS": "NSS/NCC/Scouts and Guides/Community Service",
+    "CP LAB": "Computer Programming Lab",
+    "EP-LAB": "Engineering Physics Lab",
+    "EEE WS": "EEE Workshop",
+    "IT WS": "IT Workshop",
+    "ENGINEERING GRAPHICS": "Engineering Graphics",
+    "AI": "Artificial Intelligence",
+    "IDS": "Introduction to Data Science",
+    "DL_CO": "Digital Logic & Computer Organization",
+    "BE": "Business Environment",
+    "SMDS": "Statistical Methods for Data Science",
+    "DTI LAB": "Design Thinking & Innovation Lab",
+    "IDS LAB": "Introduction to Data Science Lab",
+    "AI LAB": "Artificial Intelligence Lab",
+    "FULL STACK DEVELOPMENT LAB": "Full Stack Development Lab",
+    "SNA": "Social Network Analysis",
+    "BDA": "Big Data Analytics",
+    "AIF": "AI for Finance",
+    "NLP": "Natural Language Processing",
+    "DL": "Deep Learning",
+    "AWPS": "Academic Writing and Public Speaking",
+    "TPW.IPR": "Technical Paper Writing & IPR",
+    "DL LAB": "Deep Learning Lab",
+    "BD and DV LAB": "Big Data and Data Visualization Lab",
+    "WORKSHOP": "Workshop",
+    "SOFT SKILLS LAB": "Soft Skills Lab"
+  },
+  "faculty": {
+    "VHKR": "Harikrishna Reddy V",
+    "BRK": "Radha Krishna B",
+    "SDS": "Bhagyamma S D S",
+    "VSRA": "Mahendra TV",
+    "GM": "Madhavaiah G",
+    "CHMR": "Madhava Reddy Ch",
+    "YMK": "Madhava Kumar Y",
+    "DAVI": "Avinash Damarapu",
+    "RRP": "Ram Prasad R",
+    "HKK": "Hari Krishna Koduru",
+    "SKA": "Abzal SK",
+    "KVTR": "Thulasi Ram KV",
+    "SRK": "Ravi Kumar S",
+    "GSR": "Subba Reddy Gade",
+    "KVK": "Vasanth Kumar K",
+    "ANR": "Narayana Rao Appini",
+    "SMAM": "Mamatha S",
+    "SVC": "Chiranjeevi S V",
+    "CUKR": "Uday Kumar Raju C",
+    "MSPR": "Sivapratap Reddy M",
+    "BK": "Kalyani B",
+    "YCR": "Chitra Rekha Y",
+    "DVS": "Vijaya Sekhar D",
+    "TVM": "Mahendra TV",
+    "AVEN": "Venkateswarlu Avula",
+    "VVR": "Veera Raghavulu V",
+    "MNS": "Manne Sujana",
+    "PJTL": "Pitti Jyothi",
+    "PCK": "P Penchala Prasanth",
+    "PJTI": "Pitti Jyothi",
+    "PPTH": "Prasanth P",
+    "VKTP": "Venkateswarlu Pellakuru",
+    "PVS": "PVS Faculty"
+  }
+}
