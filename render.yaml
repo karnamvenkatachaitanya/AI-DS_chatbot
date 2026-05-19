@@ -2,8 +2,11 @@ services:
   - type: web
     name: nbkr-chatbot
     env: python
+    region: singapore
+    plan: free
     buildCommand: pip install -r requirements.txt && python -m spacy download en_core_web_sm
     startCommand: uvicorn rag_chatbot:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: PYTHON_VERSION
         value: 3.10.0
+    autoDeploy: true
