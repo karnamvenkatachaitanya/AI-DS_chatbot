@@ -1,4 +1,4 @@
-# 🎓 NBKR Institute AI & DS Department Chatbot
+# 🎓 NBKR Institute AI & DS Department RAG Chatbot
 
 An intelligent chatbot for the **AI & Data Science Department** at NBKR Institute of Science & Technology, powered by **RAG (Retrieval-Augmented Generation)** + **NLP (spaCy)**.
 
