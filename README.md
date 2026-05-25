@@ -21,7 +21,7 @@ An intelligent chatbot for the **AI & Data Science Department** at NBKR Institut
 ## ✨ Features
 
 - 📅 **Timetable** — Section A/B/C/D weekly schedules in structured table format
-- 👥 **Faculty Data** — Numbered table with name, designation badge, specialization
+- 👥 **Faculty** — Numbered table with name, designation badge, specialization
 - 🔍 **RAG Search** — FAISS cosine similarity retrieval with confidence scoring
 - 🧠 **NLP Pipeline** — Lemmatisation, POS tagging, NER, query expansion
 - 🤷 **Honest fallback** — Says "I don't know" when confidence is low
@@ -29,7 +29,7 @@ An intelligent chatbot for the **AI & Data Science Department** at NBKR Institut
 
 ---
 
-## 📦 Installation
+## 📦 Installation Steps
 
 ```bash
 # 1. Clone the repository
@@ -69,7 +69,7 @@ python main_scraper.py
 This will:
 1. Scrape faculty data from NBKR IRINS portal
 2. Scrape main website content
-3. Extract PDF documents
+3. Extract PDF  documents
 4. Scrape student portal
 5. Clean and preprocess all data
 6. Build ChromaDB vector embeddings
